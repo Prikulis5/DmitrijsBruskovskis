@@ -1,1 +1,4 @@
-123
+https://portal.azure.com/#@bruskovskisdmitrijsgmail.onmicrosoft.com/resource/subscriptions/f8111403-ffe2-42e9-8234-c844d36b928a/resourceGroups/Test/providers/Microsoft.CognitiveServices/accounts/midiseu/quickstart
+bruskovskisdmitrijs@gmail.com / Lamer1969
+
+
