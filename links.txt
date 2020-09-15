@@ -5,4 +5,6 @@ https://habr.com/ru/post/301096/
 
 https://qastack.ru/ubuntu/16386/is-there-any-software-that-will-do-face-recognition-in-photos
 
+https://www.nexmo.com/blog/2020/03/18/real-time-face-detection-in-net-with-opentok-and-opencv-dr
+
 
